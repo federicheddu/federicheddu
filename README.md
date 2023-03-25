@@ -6,10 +6,10 @@
 </h1>
 
 <div align="center">
-<a href="https://www.github.com/federicheddu"> <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> </a>
-<a href="https://www.instagram.com/federicheddu"> <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
-<a href="https://www.twitter.com/federicheddu"> <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"> </a>
-<a href="https://www.reddit.com/federicheddu"> <img align="center" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"> </a>
+<a href="https://www.github.com/federicheddu"> <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> </a>
+<a href="https://www.instagram.com/federicheddu"> <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
+<a href="https://www.twitter.com/federicheddu"> <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a>
+<a href="https://www.reddit.com/federicheddu"> <img align="center" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/> </a>
 </div>
 
 <br> 
@@ -24,20 +24,20 @@ In my time at the university I also had the opportunity to explore other fields 
 
 <div align="center">
 
-![GitHub Stats Dark](https://github-readme-stats.vercel.app/api?username=federicheddu&show_icons=true&theme=dark&hide=issues,prs#gh-dark-mode-only)
-![GitHub Stats Light](https://github-readme-stats.vercel.app/api?username=federicheddu&show_icons=true&theme=default&hide=issues,prs#gh-light-mode-only)
-![Top Langs Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=federicheddu&hide=shaderlab,hlsl&theme=dark&layout=compact#gh-dark-mode-only)
-![Top Langs Light](https://github-readme-stats.vercel.app/api/top-langs/?username=federicheddu&hide=shaderlab,hlsl&theme=default&layout=compact#gh-light-mode-only)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=federicheddu&show_icons=true&theme=dark&hide=issues,prs#gh-dark-mode-only" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=federicheddu&show_icons=true&theme=default&hide=issues,prs#gh-light-mode-only" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=federicheddu&hide=shaderlab,hlsl&theme=dark&layout=compact#gh-dark-mode-only" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=federicheddu&hide=shaderlab,hlsl&theme=default&layout=compact#gh-light-mode-only" />
     
 </div>
 
 <br>
 
 ### **🔧 Some of the tools that i use**  
-<img align="left" src="https://img.shields.io/badge/CLion-000000?style=flat&logo=clion&logoColor=ffffff">
-<img align="left" src="https://img.shields.io/badge/Rider-000000?style=flat&logo=rider&logoColor=ffffff">
-<img align="left" src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=ffffff">
-<img align="left" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=ffffff">
+<img align="left" src="https://img.shields.io/badge/CLion-000000?style=flat&logo=clion&logoColor=ffffff" />
+<img align="left" src="https://img.shields.io/badge/Rider-000000?style=flat&logo=rider&logoColor=ffffff" />
+<img align="left" src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=ffffff" />
+<img align="left" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=ffffff" />
 
 <br>
 
