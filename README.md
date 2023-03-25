@@ -1,12 +1,9 @@
-<h2 align="center" style="font-weight:bold;">
+<h1 align="center" style="font-weight:bold;">
     Hi there, my name is Federico Meloni 
     <a href="https://www.github.com/federicheddu">
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
     </a>
-</h2>
-
----
-
+</h1>
 
 Hello, I am
 <span style="font-size:14px; color:#ff7043; font-weight:bold;"> Federico Meloni </span>
