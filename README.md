@@ -6,13 +6,13 @@
 </h1>
 
 <div align="center">
-
-[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](www.github.com/federicheddu)
-[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](www.instagram.com/federicheddu)
-[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](www.twitter.com/federicheddu)
-[![](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](www.reddit.com/federicheddu)
-
+<a href="https://www.github.com/federicheddu"> <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> </a>
+<a href="https://www.instagram.com/federicheddu"> <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
+<a href="https://www.twitter.com/federicheddu"> <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"> </a>
+<a href="https://www.reddit.com/federicheddu"> <img align="center" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"> </a>
 </div>
+
+<br> 
 
 Hello, I am **Federico Meloni** but the world knows me as **federicheddu**.  
 I am a **Master’s Student** in **Computer Science** at the **University of Cagliari**.
@@ -24,42 +24,24 @@ In my time at the university I also had the opportunity to explore other fields 
 
 <div align="center">
 
-[![federicheddu's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=federicheddu&show_icons=true&theme=dark&hide=issues,prs#gh-dark-mode-only)](https://github.com/federicheddu/github-readme-stats#gh-dark-mode-only)
-[![federicheddu's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=federicheddu&show_icons=true&theme=default&hide=issues,prs#gh-light-mode-only)](https://github.com/federicheddu/github-readme-stats#gh-light-mode-only)
-
+![GitHub Stats Dark](https://github-readme-stats.vercel.app/api?username=federicheddu&show_icons=true&theme=dark&hide=issues,prs#gh-dark-mode-only)
+![GitHub Stats Light](https://github-readme-stats.vercel.app/api?username=federicheddu&show_icons=true&theme=default&hide=issues,prs#gh-light-mode-only)
+![Top Langs Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=federicheddu&hide=shaderlab,hlsl&theme=dark&layout=compact#gh-dark-mode-only)
+![Top Langs Light](https://github-readme-stats.vercel.app/api/top-langs/?username=federicheddu&hide=shaderlab,hlsl&theme=default&layout=compact#gh-light-mode-only)
+    
 </div>
 
 <br>
 
-<details>
-<summary><b>🔧 Languages and tools:</b></summary>
-<br>
-<b>Most used languages</b>
-<div align="left">
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-</div>
+### **🔧 Some of the tools that i use**  
+<img align="left" src="https://img.shields.io/badge/CLion-000000?style=flat&logo=clion&logoColor=ffffff">
+<img align="left" src="https://img.shields.io/badge/Rider-000000?style=flat&logo=rider&logoColor=ffffff">
+<img align="left" src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=ffffff">
+<img align="left" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=ffffff">
 
 <br>
 
-<b>Some of the tools that i use</b>
-<div align="left">
-<img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white">
-<img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white">
-<img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-</div>
-
-</details>
-
-<br>
-
-<details>
-<summary><b>⏳ Experiences:</b></summary>
-
+### **⏳ Experiences:**
 - lots of university projects *(many of which you can find on this profile)*
 - internship and research grant at the CG3HCI Lab. at the University of Cagliari
 - tutor of Programming 1 and Video Game Design courses, where I taught the basics of imperative programming in C and rudiments of Unity Engine at University of Cagliari
-
-</details>
