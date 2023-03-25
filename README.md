@@ -8,9 +8,9 @@
 <div align="center">
 
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](www.github.com/federicheddu)
-[![](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](www.reddit.com/federicheddu)
-[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](www.twitter.com/federicheddu)
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](www.instagram.com/federicheddu)
+[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](www.twitter.com/federicheddu)
+[![](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](www.reddit.com/federicheddu)
 
 </div>
 
@@ -22,22 +22,28 @@ In my time at the university I also had the opportunity to explore other fields 
 
 <br>
 
+<div align="center">
+
 [![federicheddu's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=federicheddu&show_icons=true&theme=dark&hide=issues,prs#gh-dark-mode-only)](https://github.com/federicheddu/github-readme-stats#gh-dark-mode-only)
 [![federicheddu's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=federicheddu&show_icons=true&theme=default&hide=issues,prs#gh-light-mode-only)](https://github.com/federicheddu/github-readme-stats#gh-light-mode-only)
+
+</div>
 
 <br>
 
 <details>
 <summary><b>🔧 Languages and tools:</b></summary>
-
-**Most used languages**
+<br>
+<b>Most used languages</b>
 <div align="left">
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 </div>
 
-**Some of the tools that i use**
+<br>
+
+<b>Some of the tools that i use</b>
 <div align="left">
 <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white">
 <img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white">
