@@ -6,10 +6,10 @@
 </h1>
 
 <div align="center">
-<a href="https://www.github.com/federicheddu"> <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> </a>
-<a href="https://www.instagram.com/federicheddu"> <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
-<a href="https://www.twitter.com/federicheddu"> <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a>
-<a href="https://www.reddit.com/federicheddu"> <img align="center" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/> </a>
+<a href="https://www.github.com/federicheddu"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
+<a href="https://www.instagram.com/federicheddu"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
+<a href="https://www.twitter.com/federicheddu"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
+<a href="https://www.reddit.com/federicheddu"><img align="center" src="https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white"/></a>
 </div>
 
 <br> 
@@ -24,14 +24,31 @@ In my time at the university I also had the opportunity to explore other fields 
 
 <div align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=federicheddu&show_icons=true&theme=dark&hide=issues,prs#gh-dark-mode-only" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=federicheddu&show_icons=true&theme=default&hide=issues,prs#gh-light-mode-only" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=federicheddu&hide=shaderlab,hlsl&theme=dark&layout=compact#gh-dark-mode-only" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=federicheddu&hide=shaderlab,hlsl&theme=default&layout=compact#gh-light-mode-only" />
+<picture width="47%">
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=federicheddu&show_icons=true&theme=dark&hide=issues,prs"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=federicheddu&show_icons=true&hide=issues,prs"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=federicheddu&show_icons=true&hide=issues,prs" />
+</picture>
+    
+<picture width="47%">
+<source 
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=federicheddu&layout=compact&theme=dark&hide=shaderlab,hlsl"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=federicheddu&layout=compact&theme=default&hide=shaderlab,hlsl"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=federicheddu&layout=compact&theme=default&hide=shaderlab,hlsl" />
+</picture>
     
 </div>
-
-<br>
 
 ### **🔧 Some of the tools that i use**  
 <img align="left" src="https://img.shields.io/badge/CLion-000000?style=flat&logo=clion&logoColor=ffffff" />
