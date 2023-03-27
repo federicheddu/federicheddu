@@ -55,7 +55,7 @@ In my time at the university I also had the opportunity to explore other fields 
 <table>
     
 <tr>
-<th colspan=4><b>Some of the things i use most</b></th>
+<th colspan=4><b>Some of the things I use most</b></th>
 </tr>
     
 <tr>
@@ -105,6 +105,6 @@ In my time at the university I also had the opportunity to explore other fields 
 
 
 ### **⏳ Experiences:**
-- lots of university projects *(many of which you can find on this profile)*
-- internship and research grant at the CG3HCI Lab. at the University of Cagliari
-- tutor of Programming 1 and Video Game Design courses, where I taught the basics of imperative programming in C and rudiments of Unity Engine at University of Cagliari
+- lots of university projects - *many of which you can find on this profile*
+- internship and research grant at the CG3HCI Lab. @ University of Cagliari
+- university tutor for Programming 1 and Video Game Design courses @ University of Cagliari, here I taught the basics of imperative programming in C and rudiments of Unity Engine
