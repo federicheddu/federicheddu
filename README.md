@@ -1,5 +1,5 @@
 <h1 align="center" style="font-weight:bold;">
-    Hi there, my name is Federico Meloni 
+    Hello, my name is Federico Meloni 
     <a href="https://www.github.com/federicheddu">
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
     </a>
@@ -55,21 +55,28 @@ In my time at the university I also had the opportunity to explore other fields 
 <table>
     
 <tr>
-<th align=center><b>🔩 Languages that i use most</b></th>
-<th align=center><b>🔧 Coding tools that i use most</b></th>
-<th align=center><b>📐 Design tools that i use most</b></th>
-<th align=center><b>🖥️ OSs that i use</b></th>
+<th colspan=4><b>Some of the things i use most</b></th>
+</tr>
+    
+<tr>
+<th align=center><b>🔩 Languages </b></th>
+<th align=center><b>🔧 Coding tools </b></th>
+<th align=center><b>📐 Design tools </b></th>
+<th align=center><b>🖥️ OSs </b></th>
 </tr>
     
 <tr>
     
+<!-- Languages -->
 <td>
 <img align=center src="https://img.shields.io/badge/C-00599C?style=flat&logo=C&logoColor=white" />
 <img align=center src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
 <img align=center src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
+<img align=center src="https://img.shields.io/badge/Python-1976d2?style=flat&logo=python&logoColor=white" />
 <img align=center src="https://img.shields.io/badge/GNU_Bash-000000?style=flat&logo=gnu-bash&logoColor=white" />
 </td>
     
+<!-- Coding tools -->
 <td>
 <img align=center src="https://img.shields.io/badge/CLion-388e3c?style=flat&logo=clion&logoColor=white" />
 <img align=center src="https://img.shields.io/badge/Rider-ad1457?style=flat&logo=rider&logoColor=white" />
@@ -77,11 +84,13 @@ In my time at the university I also had the opportunity to explore other fields 
 <img align=center src="https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white" />
 </td>
     
+<!-- Design tools -->
 <td>
 <img align=center src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
 <img align=center src="https://img.shields.io/badge/Affinity-%237E4DD2?style=flat&logo=affinity&logoColor=white" />
 </td>
     
+<!-- OSs -->
 <td>
 <img align=center src="https://img.shields.io/badge/MacOS-000000?style=flat&logo=macos&logoColor=white" />
 <img align=center src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" />
