@@ -64,28 +64,28 @@ In my time at the university I also had the opportunity to explore other fields 
 <tr>
     
 <td>
-<img align=left src="https://img.shields.io/badge/C-00599C?style=flat&logo=C&logoColor=white" />
-<img align=left src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" /> <br>
-<img align=left src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
-<img align=left src="https://img.shields.io/badge/GNU_Bash-000000?style=flat&logo=gnu-bash&logoColor=white" />
+<img align=center src="https://img.shields.io/badge/C-00599C?style=flat&logo=C&logoColor=white" />
+<img align=center src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+<img align=center src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
+<img align=center src="https://img.shields.io/badge/GNU_Bash-000000?style=flat&logo=gnu-bash&logoColor=white" />
 </td>
     
 <td>
-<img align=left src="https://img.shields.io/badge/CLion-388e3c?style=flat&logo=clion&logoColor=white" />
-<img align=left src="https://img.shields.io/badge/Rider-ad1457?style=flat&logo=rider&logoColor=white" /> <br>
-<img align=left src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white" />
-<img align=left src="https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white" />
+<img align=center src="https://img.shields.io/badge/CLion-388e3c?style=flat&logo=clion&logoColor=white" />
+<img align=center src="https://img.shields.io/badge/Rider-ad1457?style=flat&logo=rider&logoColor=white" />
+<img align=center src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white" />
+<img align=center src="https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white" />
 </td>
     
 <td>
-<img align=left src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
-<img align=left src="https://img.shields.io/badge/Affinity-%237E4DD2?style=flat&logo=affinity&logoColor=white" />
+<img align=center src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+<img align=center src="https://img.shields.io/badge/Affinity-%237E4DD2?style=flat&logo=affinity&logoColor=white" />
 </td>
     
 <td>
-<img align=left src="https://img.shields.io/badge/MacOS-000000?style=flat&logo=macos&logoColor=white" />
-<img align=left src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" /> <br>
-<img align=left src="https://img.shields.io/badge/Linux-F24E1E?style=flat&logo=linux&logoColor=white" />
+<img align=center src="https://img.shields.io/badge/MacOS-000000?style=flat&logo=macos&logoColor=white" />
+<img align=center src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" />
+<img align=center src="https://img.shields.io/badge/Linux-F24E1E?style=flat&logo=linux&logoColor=white" />
 </td>
     
 </tr>
