@@ -48,32 +48,51 @@ In my time at the university I also had the opportunity to explore other fields 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=federicheddu&layout=compact&theme=default&hide=shaderlab,hlsl" />
 </picture>
     
-</div>
 
+<br>
+<br>
 
 <table>
     
 <tr>
-<th align=center><b>🔧 Some of the coding tools that i use</b></th>
-<th align=center><b>📐 Some of the design tools that i use</b></th>
+<th align=center><b>🔩 Languages that i use most</b></th>
+<th align=center><b>🔧 Coding tools that i use most</b></th>
+<th align=center><b>📐 Design tools that i use most</b></th>
+<th align=center><b>🖥️ OSs that i use</b></th>
 </tr>
     
 <tr>
     
 <td>
-<img align=left src="https://img.shields.io/badge/CLion-000000?style=flat&logo=clion&logoColor=ffffff" />
-<img align=left src="https://img.shields.io/badge/Rider-000000?style=flat&logo=rider&logoColor=ffffff" />
-<img align=left src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=ffffff" />
+<img align=left src="https://img.shields.io/badge/C-00599C?style=flat&logo=C&logoColor=white" />
+<img align=left src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" /> <br>
+<img align=left src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
+<img align=left src="https://img.shields.io/badge/GNU_Bash-000000?style=flat&logo=gnu-bash&logoColor=white" />
 </td>
     
 <td>
-<img align=left src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=ffffff" />
-<img align=left src="https://img.shields.io/badge/affinity-%237E4DD2?style=flat&logo=affinity&logoColor=white"/>
+<img align=left src="https://img.shields.io/badge/CLion-388e3c?style=flat&logo=clion&logoColor=white" />
+<img align=left src="https://img.shields.io/badge/Rider-ad1457?style=flat&logo=rider&logoColor=white" /> <br>
+<img align=left src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white" />
+<img align=left src="https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white" />
+</td>
+    
+<td>
+<img align=left src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+<img align=left src="https://img.shields.io/badge/Affinity-%237E4DD2?style=flat&logo=affinity&logoColor=white" />
+</td>
+    
+<td>
+<img align=left src="https://img.shields.io/badge/MacOS-000000?style=flat&logo=macos&logoColor=white" />
+<img align=left src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" /> <br>
+<img align=left src="https://img.shields.io/badge/Linux-F24E1E?style=flat&logo=linux&logoColor=white" />
 </td>
     
 </tr>
 </table>
-<br>
+    
+</div>
+
 
 ### **⏳ Experiences:**
 - lots of university projects *(many of which you can find on this profile)*
