@@ -50,12 +50,29 @@ In my time at the university I also had the opportunity to explore other fields 
     
 </div>
 
-### **🔧 Some of the tools that i use**  
-<img align="left" src="https://img.shields.io/badge/CLion-000000?style=flat&logo=clion&logoColor=ffffff" />
-<img align="left" src="https://img.shields.io/badge/Rider-000000?style=flat&logo=rider&logoColor=ffffff" />
-<img align="left" src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=ffffff" />
-<img align="left" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=ffffff" />
 
+<table>
+    
+<tr>
+<th align=center><b>🔧 Some of the coding tools that i use</b></th>
+<th align=center><b>📐 Some of the design tools that i use</b></th>
+</tr>
+    
+<tr>
+    
+<td>
+<img align=left src="https://img.shields.io/badge/CLion-000000?style=flat&logo=clion&logoColor=ffffff" />
+<img align=left src="https://img.shields.io/badge/Rider-000000?style=flat&logo=rider&logoColor=ffffff" />
+<img align=left src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=ffffff" />
+</td>
+    
+<td>
+<img align=left src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=ffffff" />
+<img align=left src="https://img.shields.io/badge/affinity-%237E4DD2?style=flat&logo=affinity&logoColor=white"/>
+</td>
+    
+</tr>
+</table>
 <br>
 
 ### **⏳ Experiences:**
