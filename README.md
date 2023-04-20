@@ -107,4 +107,5 @@ In my time at the university I also had the opportunity to explore other fields 
 ### **⏳ Experiences:**
 - lots of university projects - *many of which you can find on this profile*
 - internship and research grant at the CG3HCI Lab. @ University of Cagliari
-- university tutor for Programming 1 and Video Game Design courses @ University of Cagliari, here I taught the basics of imperative programming in C and rudiments of Unity Engine
+- university tutor for [Programming 1](https://unica.coursecatalogue.cineca.it/insegnamenti/2022/15705-1/2016/9999/10563?coorte=2022&schemaid=4598) and [Video Game Design](https://unica.coursecatalogue.cineca.it/insegnamenti/2022/20861/2016/9999/10563?coorte=2022) courses @ University of Cagliari, here I taught the basics of imperative programming in C and rudiments of Unity Engine
+- high school trainer for the "[Coding Girls](https://www.mondodigitale.org/progetti/coding-girls)" project that encourages girls in science fields
