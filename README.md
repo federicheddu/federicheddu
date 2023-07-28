@@ -12,6 +12,12 @@
 <a href="https://www.reddit.com/federicheddu"><img align="center" src="https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white"/></a>
 </div>
 
+<br>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=federicheddu"/>
+</div>
+
 <br> 
 
 Hello, I am **Federico Meloni** but the world knows me as **federicheddu**.  
