@@ -32,26 +32,26 @@ In my time at the university I also had the opportunity to explore other fields 
 
 <picture width="47%">
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=federicheddu&show_icons=true&theme=dark&hide=issues,prs&FEDERICHEDDU=3"
+  srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=federicheddu&show_icons=true&theme=dark&hide=issues,prs"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=federicheddu&show_icons=true&hide=issues,prs&FEDERICHEDDU=3"
+  srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=federicheddu&show_icons=true&hide=issues,prs"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=federicheddu&show_icons=true&hide=issues,prs&FEDERICHEDDU=3" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=federicheddu&show_icons=true&hide=issues,prs" />
 </picture>
     
 <picture width="47%">
 <source 
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=federicheddu&layout=compact&theme=dark&hide=shaderlab,hlsl&FEDERICHEDDU=3"
+  srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=federicheddu&layout=compact&theme=dark&hide=shaderlab,hlsl"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=federicheddu&layout=compact&theme=default&hide=shaderlab,hlsl&FEDERICHEDDU=3"
+  srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=federicheddu&layout=compact&theme=default&hide=shaderlab,hlsl"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=federicheddu&layout=compact&theme=default&hide=shaderlab,hlsl&FEDERICHEDDU=3" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=federicheddu&layout=compact&theme=default&hide=shaderlab,hlsl" />
 </picture>
     
 
