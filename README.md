@@ -21,9 +21,9 @@
 <br> 
 
 Hello, I am **Federico Meloni** but the world knows me as **federicheddu**.  
-I am a **Master’s Student** in **Computer Science** at the **University of Cagliari**.
+I am a **PhD Student** in **Computer Science** at the **University of Cagliari**.
 
-During my studies I developed an interest in **computer graphics** (main focus of both my bachelor’s and master’s thesis) and **human-computer interaction**.  
+During my studies I developed an interest in **computer graphics** (main focus of my PhD and both my thesis) and **human-computer interaction**.  
 In my time at the university I also had the opportunity to explore other fields such as **computer vision** and **deep learning**, although they are not my main focus.
 
 <br>
