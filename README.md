@@ -21,7 +21,7 @@
 <br> 
 
 Hello, I am **Federico Meloni** but the world knows me as **federicheddu**.  
-I am a **PhD Student** in **Computer Science** at the **University of Cagliari**.
+I am a **PhD Student** in **Computer Science** at the **University of Cagliari**, I am part of the research group [**CG3HCI**](https://cg3hci.dmi.unica.it/lab/).
 
 During my studies I developed an interest in **computer graphics** (main focus of my PhD and both my thesis) and **human-computer interaction**.  
 In my time at the university I also had the opportunity to explore other fields such as **computer vision** and **deep learning**, although they are not my main focus.
@@ -112,6 +112,6 @@ In my time at the university I also had the opportunity to explore other fields 
 
 ### **⏳ Experiences:**
 - lots of university projects - *many of which you can find on this profile*
-- internship and research grant at the CG3HCI Lab. @ University of Cagliari
+- internship, research grant and PhD at the [CG3HCI Lab.](https://cg3hci.dmi.unica.it/lab/) @ University of Cagliari
 - university tutor for [Programming 1](https://unica.coursecatalogue.cineca.it/insegnamenti/2022/15705-1/2016/9999/10563?coorte=2022&schemaid=4598) and [Video Game Design](https://unica.coursecatalogue.cineca.it/insegnamenti/2022/20861/2016/9999/10563?coorte=2022) courses @ University of Cagliari, here I taught the basics of imperative programming in C and rudiments of Unity Engine
 - high school trainer for the "[Coding Girls](https://www.mondodigitale.org/progetti/coding-girls)" project that encourages girls in science fields
