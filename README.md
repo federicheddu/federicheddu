@@ -7,6 +7,9 @@
 
 <div align="center">
 <a href="https://www.github.com/federicheddu"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
+<a href="https://scholar.google.com/citations?user=7J2SyuwAAAAJ"><img align="center" src="https://img.shields.io/badge/Scholar-4066b7?style=flat&logo=googlescholar&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/federicheddu/"><img align="center" src="https://img.shields.io/badge/LinkedIn-007ebb?style=flat&logo=linkedin&logoColor=white"/></a>
+</br>
 <a href="https://www.instagram.com/federicheddu"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
 <a href="https://www.twitter.com/federicheddu"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
 <a href="https://www.reddit.com/federicheddu"><img align="center" src="https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white"/></a>
@@ -77,7 +80,7 @@ In my time at the university I also had the opportunity to explore other fields 
 <td align=center>
 <img align=center src="https://img.shields.io/badge/C-00599C?style=flat&logo=C&logoColor=white" />
 <img align=center src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-<img align=center src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" /> <br>
+<img align=center src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" /> <br>
 <img align=center src="https://img.shields.io/badge/Bash-000000?style=flat&logo=gnu-bash&logoColor=white" />
 <img align=center src="https://img.shields.io/badge/Python-1976d2?style=flat&logo=python&logoColor=white" />
 <img align=center src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" />
