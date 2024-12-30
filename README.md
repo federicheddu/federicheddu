@@ -10,13 +10,14 @@
 <a href="https://scholar.google.com/citations?user=7J2SyuwAAAAJ"><img align="center" src="https://img.shields.io/badge/Scholar-4066b7?style=flat&logo=googlescholar&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/federicheddu/"><img align="center" src="https://img.shields.io/badge/LinkedIn-007ebb?style=flat&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/federicheddu"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
-<a href="https://www.twitter.com/federicheddu"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
+<a href="https://www.twitter.com/federicheddu"><img align="center" src="https://img.shields.io/badge/X%20(Twitter)-000000?style=flat&logo=x&logoColor=white"/></a>
 <a href="https://www.reddit.com/federicheddu"><img align="center" src="https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white"/></a>
 </div>
 
 <br>
 
 <div align="center">
+<a href="https://federicheddu.github.io"><img src="https://img.shields.io/badge/My%20Website-federicheddu.github.io-blue"/></a>
 <img src="https://komarev.com/ghpvc/?username=federicheddu"/>
 </div>
 
